@@ -100,7 +100,7 @@ and an output file where you can see the program's output `file.out`.
 You can compile the program using the following scheme:
 
 `gcc main.c structuri.c -o [exec_name]`
-`./[exec_name] [-c1|-c2|-c3|-c4] [task1.in|task2.in|task3.in|task4.in] file.out
+`./[exec_name] [-c1|-c2|-c3|-c4] [task1.in|task2.in|task3.in|task4.in] file.out`
 
 ---
 
