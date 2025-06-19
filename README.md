@@ -92,14 +92,12 @@ Given a list of satellite names, find their lowest common ancestor (LCA) in the 
 
 Compile the project using a C compiler (e.g., gcc):
 
-gcc main.c sateliti.c -o satellites
-Each task can be run individually by choosing one of this options: [-c1|-c2|-c3|-c4]
-I've included four input files with examples of input data, for each tasks: [task1.in|task2.in|task3.in|task4.in],
-and an output file where you can see the program's output `file.out`.
+Each task can be run individually by choosing one of this options: [-c1|-c2|-c3|-c4]. \n
+I've included four input files with examples of input data, for each tasks: [task1.in|task2.in|task3.in|task4.in], and an output file where you can see the program's output `file.out`.
 
 You can compile the program using the following scheme:
 
-`gcc main.c structuri.c -o [exec_name]`
+`gcc main.c structuri.c -o [exec_name]` \n
 `./[exec_name] [-c1|-c2|-c3|-c4] [task1.in|task2.in|task3.in|task4.in] file.out`
 
 ---
